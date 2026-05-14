@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace BÜT_Mehmed_Akif_Aydemir
+namespace HotelReservationSystem
 {
     static class Program
     {
