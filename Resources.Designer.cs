@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace BÜT_Mehmed_Akif_Aydemir.Properties {
+namespace HotelReservationSystem.Properties {
     using System;
     
     
