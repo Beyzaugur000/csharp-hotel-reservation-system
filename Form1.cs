@@ -22,7 +22,7 @@ using Excel = Microsoft.Office.Interop.Excel;
 
 using Microsoft.Office.Interop.Excel;
 
-namespace BÜT_Mehmed_Akif_Aydemir
+namespace HotelReservationSystem
 {
 
     public partial class Form1 : Form
