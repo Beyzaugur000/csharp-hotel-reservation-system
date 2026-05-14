@@ -1,5 +1,5 @@
 ﻿
-namespace BÜT_Mehmed_Akif_Aydemir
+namespace HotelReservationSystem
 {
     partial class Form1
     {
